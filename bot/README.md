@@ -3,6 +3,7 @@ Hi there, this bot is still under development,
 Any issues can be put in the Issues tab
 
 Using this bot you agree to the Terms Of Use:
+
 -Use this bot at your own risk, we are not responsible for anything that happens to you.
 
 -It is forbidden to in any way use this bot to harm other people, if this happens we will make sure you aren't able to use this bot anymore.
