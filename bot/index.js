@@ -32,8 +32,11 @@ fs.readdir("./commands/", (err, files) => {
 });
 
 client.on('ready', async => {
-	console.log('I am online, boss!');
-
+    function changing_status() {
+        let status = ['!help | Prefix: !', 'under devlopment!', 'utbot.wadj.ga', 'NEW: Set log channel!', 'Alpha thing', `${client.users.size} users!`, `on ${client.guilds.size} servers`]
+        let random = status[Math.floor(Math.random() * status.length)]
+        client.user.setActivity(random)
+      }
 	client.user.setActivity('I am a bot', {"type": "PLAYING"});
 
 });
