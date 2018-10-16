@@ -22,4 +22,4 @@ A link to our discord: https://discord.gg/yaFEVCY this link should work, if it d
 
 Kind regards
 
-~A bot developer team!
+~WADJ bot developer team!
